@@ -10,9 +10,16 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Education
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+- [MSc Robotics and Autonomous Systems](./content/Education/MSc.html)
+  - EECE Dept., Arizona State University, Tempe, AZ, USA
+
+- P.G Part-time, Department of Systems & Control Engineering
+  - Indian institute of Technology Bombay, Mumbai, India
+
+- B.E. Electronics
+  - University of Mumbai, Mumbai, India
 
 ## Header 2
 
