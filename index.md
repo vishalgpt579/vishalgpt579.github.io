@@ -2,7 +2,7 @@
 layout: default
 ---
 
-A robotics engineer with over 3.5 years of experience in research, development & teaching adjunct with a strong background in mathematics & hardware engineering, aiming to build optimized & robust applications for economical use.
+Born in Mumbai, India in March 1997. I am a robotics engineer with over fours years of experience in research, development & teaching at Both IIT-Bombay and ASU. I have a strong interest in applied mathematics and good experience in embedded system design, control theory and current doing my research in applied Clifford Algebra, aiming to build optimized & robust applications for economical use.
 
 ## Education
 
@@ -16,7 +16,7 @@ A robotics engineer with over 3.5 years of experience in research, development &
 * * *
 
 
-## Work Experience
+## Professional Experience
 
 ### Indian Institute of Technology, Mumbai, India
 
@@ -24,7 +24,7 @@ A robotics engineer with over 3.5 years of experience in research, development &
 
 > Duration: Dec 2018 – July 2022
 
-Responsible for developing more than eight robotics & RTOS application under the supervision of Prof Kavi Arya, CSE Dept, IIT Bombay, to conceptualise them through 3 different teaching pedagogy.
+Responsible for developing more than eight robotics & RTOS application under the supervision of **Prof Kavi Arya, CSE Dept, IIT Bombay**, to conceptualise them through 3 different teaching pedagogy.
 
 - Led a team of 6 in the design & development of UGV (with UR5 mount) & drones (Quadcopters & Octocopters) for generic applications.
 
@@ -39,73 +39,46 @@ performance analysis.
 
 - Developed & facilitated 2-day workshops on the topic “Introduction to Embedded Systems”. Trained 180+ college faculties from 65+ engineering colleges across India
 
-## Featuring Projects
 
-- [Higher Dimensional Mandelbrot & Julia using Geometric Algebra](), STAM Center- ASU
+## Work Experience
 
+### Teaching Assistant: EEE304- Signals & Systems II
+> Jan 2024 – Present
 
-![](./content/projects/media/CA_3D_27000pts.png)
+- Facilitated students progress for the lab curriculum in Signal & Systems-II iCourse, for the academic year of Spring-24. Duties also
+includes managing hardware & software requirements of the Lab and teaching support.
 
-- [Ring Oscillators PUF](), ASU
+### Graduate Service Assistant: STAM Center
+> Jan 2023 – Dec 2023
 
-  >
-  - Desiging a PUF (Physically Unconneble device), as a part of the CEN 598 course.
-![](./content/projects/media/ring_osc.png)
-![](./content/projects/media/ring_osc_output.png)
+- Researcher in training, Instructor for Summer Outreach for School Student and independent study in the domain of Clifford Algebra
+and spreading its usefulness, through teaching sessions and experiment demonstrations.
 
+### Graduate Service Assistant: EGR314- Embedded System Design
+> Jan 2023 – May2023
 
-- [Flash-Memory Dev-board for FPGA]()
+- Utilitarian teaching support and supervision for 63 seniors students with programming, designing and troubleshooting with
+microchip’s 16-bit PIC controller and MPLAB.
 
-<object>
-<embed src="./content/projects/media/Generic-flash-memory-PCB-layout-&-design.pdf#page=1&zoom=60" type="application/pdf" width="600px" height="400px">
-</object>
+***
 
+## Leader-ship & Volunteering Experience
 
-- [Novozymes Enzyme Stability Prediction](), STAM-Center ASU
+### Graduate Professional Support Organization | ASU
 
-  > Source: [Kaggle Competition](https://www.kaggle.com/competitions/novozymes-enzyme-stability-prediction/discussion) 
-  - RNN-LSTM model with R2 94% accuracy score, for predicting thermal stability of amino acids sequential data.
+- A part of Gov-Ops Committee in GPSA, to ensure smooth operation of the graduate student government body of ASU.
 
-- [Agribot](), IIT Bombay
+- Task involved hosting monthly orientation for new members, proposal documents reviewing and interaction & collaboration with ASU
+administration to bolster student engagement and professional development .
 
-  > [Demonstration](https://youtu.be/cgiHJSOUb5I) <br />
-  > [Resource](https://github.com/erts-RnD/eYRC-2021_Agribot)
-  - Autonomous UGV with UR5 in actual Greenhouse with remote access. Paper under review (Continuation of Sahayak Bot project).
-  - Bolster distant hands-on learning for 20+ students in isolated corners of India.
+### F.I.R.S.T Volunteering | K-12/Pre-College
 
-- [Accelerated 3D-Perception IIT Bombay]()
+- Provided Technical and Professional support to school kids during the competitions events.
 
-  > [Reference](https://arxiv.org/pdf/2006.00049.pdf)
-  - 3D data filter pipeline developed using Point Cloud Library, adjunct with CNN model for object recognition.
-  - Aim to alleviate price & energy requirements by implementation on Xilinx’s Ultra96 MPSoC using Vivada HLS language.
-  ![](./content/projects/media/3D_perception_clustering.png)
-  ![](./content/projects/media/3D_perception_final.png)
+### Outreach Program Instructor| STAM Center- ASU
 
-<!-- <object>
-<embed src="./content/projects/media/e_YSIP21_21_3D_Perception_progress_ppt_II.pdf" type="application/pdf" width="600px" height="400px">
-</object> -->
+- Pragmatically addressing the persistent lack of microelectronic security exposure among domestic students
 
+### Feed-My-Starving-Children Volunteer 
 
-- [Sahayak Bot](), IIT Bombay
-
-  > **[Publication]()** <br />
-  > [Resources](https://github.com/erts-RnD/sahayak_bot)
-  - Development of a UGV with UR5, both actual & simulation models for generic autonomous pick-&-place and navigation applications.
-  - Facilitated teaching 5446 students the challenges associated with industrial robotics to date.
-
-- [Depth Perception](), IIT Bombay
-
-  > **[Publication](https://ieeexplore.ieee.org/document/9588784)** <br />
-  > [Resources](https://github.com/erts-RnD/sahayak_bot)
-  - Study of 3 vSLAM (Computer vision) methods, PTAM, ORB-SLAM2 & CNN model, to generate point cloud data, & mapping with an onboard monocular camera on a DJI Tello drone.
-
-- [Quadcopter Stabilization in Gazebo](), IIT Bombay
-
-  > [Resources](https://github.com/rishikeshrmadan/survey_and_rescue)
-  - Enabled 0 cost learning through building a custom simulation model of a nano-drone in the Gazebo simulator, based on the RotorS framework (LQR controller). Adjunct with Image-processing for waypoint detection & path-planning.
-
-- [Data Traffic Monitor System](), University of Mumbai
-  
-  > **BE Thesis Project**
-  - An RTOS system with a 6.5ftx3ft physical board, depiction college's IT infrastructure & relaying latency information of any node within the intra-network.
-  - Similar information conveyed through website. Concepts like RTOS, signal processing & multithreading enabled the system to perform calculations & information broadcasting within 200ms.
+- Weekly volunteered in packaging food bag at FMSC, Mesa,AZ. 

@@ -58,11 +58,13 @@ Desiging a PUF (Physically Unconneble device), as a part of the CEN 598 course.
   - Development of a UGV with UR5, both actual & simulation models for generic autonomous pick-&-place and navigation applications.
   - Facilitated teaching 5446 students the challenges associated with industrial robotics to date.
 
-- [Depth Perception](), IIT Bombay
+- [Depth Perception](./vSLAM.html), IIT Bombay
 
-  > **[Publication](https://ieeexplore.ieee.org/document/9588784)** <br />
+  > **[Publication: An experimental comparison of visual SLAM systems](https://ieeexplore.ieee.org/document/9588784)** <br />
   > [Resources](https://github.com/erts-RnD/sahayak_bot)
   - Study of 3 vSLAM (Computer vision) methods, PTAM, ORB-SLAM2 & CNN model, to generate point cloud data, & mapping with an onboard monocular camera on a DJI Tello drone.
+
+ ![](./media/vSLAM.png)
 
 - [Quadcopter Stabilization in Gazebo](), IIT Bombay
 
