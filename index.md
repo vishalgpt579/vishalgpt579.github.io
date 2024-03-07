@@ -20,7 +20,7 @@ Born in Mumbai, India in March 1997. I am a robotics engineer with over fours ye
 
 ### Indian Institute of Technology, Mumbai, India
 
-> Position: Sr Project Technical Assistant 
+> Position: Sr Project Technical Assistant
 
 > Duration: Dec 2018 – July 2022
 
@@ -79,6 +79,6 @@ administration to bolster student engagement and professional development .
 
 - Pragmatically addressing the persistent lack of microelectronic security exposure among domestic students
 
-### Feed-My-Starving-Children Volunteer 
+### Feed-My-Starving-Children Volunteer
 
-- Weekly volunteered in packaging food bag at FMSC, Mesa,AZ. 
+- Weekly volunteered in packaging food bag at FMSC, Mesa,AZ.
