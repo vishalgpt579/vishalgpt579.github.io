@@ -19,7 +19,7 @@ Desiging a PUF (Physically Unconneble device), as a part of the CEN 598 course.
 ![](./media/ring_osc_output.png)
 
 
-- [Flash-Memory Dev-board for FPGA]()
+- [Flash-Memory Dev-board for FPGA](./flash-dev-board.html)
 
 <object>
 <embed src="./media/Generic-flash-memory-PCB-layout-&-design.pdf#page=1&zoom=60" type="application/pdf" width="600px" height="400px">
