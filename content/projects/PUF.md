@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Project: Physically Un-clonable Device
+## Project: Ring Oscillator PUF (Physically Un-clonable Function) Device.
 
 Built and simulated an Arbiter PUF using RTL techniques, leveraging delay differences in multiplexers to create unique responses for various challenges and devices, as a part of the CEN 598 course.
 

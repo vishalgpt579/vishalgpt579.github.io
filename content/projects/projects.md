@@ -10,9 +10,9 @@ layout: default
 
 ![](./media/CA_3D_27000pts.png)
 
-- [PUF (Physical Unclonable device) design](./PUF.html)
+- [PUF (Physical Unclonable Function) Device](./PUF.html)
 
-Built and simulated an Arbiter PUF using RTL techniques, leveraging delay differences in multiplexers to create unique responses for various challenges and devices, as a part of the CEN 598 course.
+Built and simulated an Arbiter PUF & Ring-Oscillator(RO) PUF using RTL techniques, leveraging delay differences in multiplexers to create unique responses for various challenges and devices, as a part of the CEN 598 course.
 
 <!-- <object>
 <embed src="./media/single_challenge.png" type="application/pdf" width="493" height="528">
@@ -54,9 +54,9 @@ Built and simulated an Arbiter PUF using RTL techniques, leveraging delay differ
 </object> -->
 
 
-- [Sahayak Bot](./sahayak-bot/Sahayak-Bot/index.html), IIT Bombay
+- [Sahayak Bot](), IIT Bombay
 
-  > **[Publication]()** <br />
+  > **[Publication-In Process]()** <br />
   > Resources: [https://github.com/erts-RnD/sahayak_bot](https://github.com/erts-RnD/sahayak_bot)
 
   - Development of a UGV with UR5, both actual & simulation models for generic autonomous pick-&-place and navigation applications.
