@@ -10,11 +10,14 @@ layout: default
 
 ![](./media/CA_3D_27000pts.png)
 
-- [Ring Oscillators]()
+- [PUF (Physical Unclonable device) design](./PUF.html)
 
-Desiging a PUF (Physically Unconneble device), as a part of the CEN 598 course.
+Built and simulated an Arbiter PUF using RTL techniques, leveraging delay differences in multiplexers to create unique responses for various challenges and devices, as a part of the CEN 598 course.
 
-> The Ring Oscillator(RO) PUF uses multiple Ring Oscillators to increment counters. Variations in fabrication mean that each RO will have a unique frequency. When two counters use different RO outputs as a clock, one counter will finish before the other. Checking which counter finished first provides a source of randomness unique to each device. Multiple PUF challenges are supported by providing several ROs to choose from when clocking each counter. Multiple PUF response bits are generated with multiple pairs of counters racing to the max count value.
+<!-- <object>
+<embed src="./media/single_challenge.png" type="application/pdf" width="493" height="528">
+</object>
+![](./media/single_response.png) -->
 ![](./media/ring_osc.png)
 ![](./media/ring_osc_output.png)
 
@@ -51,10 +54,11 @@ Desiging a PUF (Physically Unconneble device), as a part of the CEN 598 course.
 </object> -->
 
 
-- [Sahayak Bot](), IIT Bombay
+- [Sahayak Bot](./sahayak-bot/Sahayak-Bot/index.html), IIT Bombay
 
   > **[Publication]()** <br />
-  > [Resources](https://github.com/erts-RnD/sahayak_bot)
+  > Resources: [https://github.com/erts-RnD/sahayak_bot](https://github.com/erts-RnD/sahayak_bot)
+
   - Development of a UGV with UR5, both actual & simulation models for generic autonomous pick-&-place and navigation applications.
   - Facilitated teaching 5446 students the challenges associated with industrial robotics to date.
 
@@ -71,7 +75,7 @@ Desiging a PUF (Physically Unconneble device), as a part of the CEN 598 course.
   > [Resources](https://github.com/rishikeshrmadan/survey_and_rescue)
   - Enabled 0 cost learning through building a custom simulation model of a nano-drone in the Gazebo simulator, based on the RotorS framework (LQR controller). Adjunct with Image-processing for waypoint detection & path-planning.
 
-- [Data Traffic Monitor System](), University of Mumbai
+- [Data Traffic Monitor System](./data_traffic_mon_sys.html), University of Mumbai
   
   > **BE Thesis Project**
   - An RTOS system with a 6.5ftx3ft physical board, depiction college's IT infrastructure & relaying latency information of any node within the intra-network.

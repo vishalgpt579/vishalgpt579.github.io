@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My first three.js app</title>
+        <style>
+            body { margin: 0; }
+            canvas { display: block; }
+        </style>
+    </head>
+    <body>
+        <script src="https://cdn.jsdelivr.net/npm/three@0.125.2/build/three.min.js"></script>
+        <script>
+            var scene = new THREE.Scene();
+            var camera = new THREE.PerspectiveCamera( 75, window.innerWidth/window.innerHeight, 0.1, 1000 );
+
+            var renderer = new THREE.WebGLRenderer();
+            renderer.setSize( window.innerWidth, window.innerHeight );
+            document.body.appendChild( renderer.domElement );
+
+            // var geometry = new THREE.BoxGeometry();
+            // var material = new THREE.MeshBasicMaterial( { color: 0x00ff00 } );
+            // var cube = new THREE.Mesh( geometry, material );
+            // scene.add( cube );
+
+            var loader = new THREE.STLLoader();
+            loader.load( '/media/asic-flash-mem-interface-board.step', function ( geometry ) {
+                var material = new THREE.MeshNormalMaterial();
+                var mesh = new THREE.Mesh( geometry, material );
+                scene.add( mesh );
+            } );
+
+            camera.position.z = 5;
+
+            var animate = function () {
+                requestAnimationFrame( animate );
+                cube.rotation.x += 0.01;
+                cube.rotation.y += 0.01;
+                renderer.render( scene, camera );
+            };
+
+            animate();
+        </script>
+    </body>
+</html>
