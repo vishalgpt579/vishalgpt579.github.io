@@ -82,3 +82,8 @@ administration to bolster student engagement and professional development .
 ### Feed-My-Starving-Children Volunteer
 
 - Weekly volunteered in packaging food bag at FMSC, Mesa,AZ.
+
+***
+
+## Resume
+![](./resume/cv_mecha_QR.png)
