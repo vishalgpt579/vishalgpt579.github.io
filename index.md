@@ -2,13 +2,13 @@
 layout: default
 ---
 
-Born in Mumbai, India in March 1997. I am a robotics engineer with over fours years of experience in research, development & teaching at Both IIT-Bombay and ASU. I have a strong interest in applied mathematics and good experience in embedded system design, control theory and current doing my research in applied Clifford Algebra, aiming to build optimized & robust applications for economical use.
+A robotics engineer with 4 years of experience in research, development & teaching adjunct with a strong background in mathematics & hardware engineering, aiming for optimal & robust robotics experience, seeking an full-time job opportunity.
 
 ## Education
 
 | Degree        | School/University          | GPA | Graduation |
 |:-------------|:------------------|:------|
-| MSc [Robotics & Autonomous System](./content/Education/MSc.html), Electrical Engineering Dept. | Arizona State University, USA | 4.0 | August 2022 - _Present_  |
+| MSc [Robotics & Autonomous System](./content/Education/MSc.html), Electrical Engineering Dept. | Arizona State University, USA | 4.0 | August 2022 - May 2024  |
 | Parttime P.G., Department of Systems & Control Engineering | IIT-Bombay, India   | 3.5 | July 2021 - June 2022  |
 | B.E Electronics           | University of Mumbai, India      | 3.19 | July 2018   |
 
