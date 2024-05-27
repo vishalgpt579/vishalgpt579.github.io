@@ -4,15 +4,20 @@ layout: default
 
 # Projects
 
+- [Worm Robot](), Research
+![](./media/worm-bot-v1.gif)
+  
+  >
+  - Implementation and control of worm-robot with 7 or more joints using Clifford-Algebra to leverage higher dimensional vector-vector multiplication operation for inverse-kinematics and dynamics, where analytics solutions of joints angles are difficult to compute or non-existential.
+
 - [Higher Dimensional Mandelbrot & Julia using Geometric Algebra](), STAM Center, ASU
-	
-	>
 
 ![](./media/CA_3D_27000pts.png)
 
 - [PUF (Physical Unclonable Function) Device](./PUF.html)
 
-Built and simulated an Arbiter PUF & Ring-Oscillator(RO) PUF using RTL techniques, leveraging delay differences in multiplexers to create unique responses for various challenges and devices, as a part of the CEN 598 course.
+  >
+  - Built and simulated an Arbiter PUF & Ring-Oscillator(RO) PUF using RTL techniques, leveraging delay differences in multiplexers to create unique responses for various challenges and devices, as a part of the CEN 598 course.
 
 <!-- <object>
 <embed src="./media/single_challenge.png" type="application/pdf" width="493" height="528">
